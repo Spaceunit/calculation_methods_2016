@@ -1,5 +1,7 @@
 import math
 class Matrix:
+    # Warning it is not last version of matrix! See v2
+
     def __init__(self, matrix, name):
         self.name = name
         self.setmatrix(matrix)
